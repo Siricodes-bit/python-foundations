@@ -1,40 +1,46 @@
-# python-foundations
+# Python Problem Solving & Foundations
 
-Structured Python practice covering fundamentals, problem solving, and mini tasks
-for Data Analyst / Data Scientist roles.
+A structured repository for mastering Python fundamentals, problem-solving, and interview preparation through practical coding exercises and mini-projects.
 
-## Purpose
-This repository documents my daily Python learning journey, focusing on building
-strong fundamentals required for data analysis and data science internships.
+## Objectives
 
-## Current Focus
-- Python basics
-- Problem solving using Python
-- Writing clean and readable code
+* Strengthen Python fundamentals
+* Improve logical thinking
+* Prepare for coding interviews
+* Build real-world mini projects
 
-## Topics Covered (Updating Regularly)
-- Variables and Data Types
-- Conditions and Loops
-- Functions
-- Lists, Tuples, Sets, Dictionaries
+## Topics Covered
 
-## Repository Structure
-basics/              # Python fundamentals  
-practice_problems/   # Logic and problem-solving exercises  
-mini_tasks/          # Small Python programs  
+* Variables & Data Types
+* Loops & Conditionals
+* Functions
+* Lists, Tuples, Dictionaries
+* String Manipulation
+* File Handling
+* Exception Handling
+* Object-Oriented Programming
+* DSA Basics
 
 ## Folder Structure
 
+```text id="9ow42y"
 basics/
-- 01_variables.py
-- 02_input_output.py
-- 03_strings.py
-- 04_integers_float.py
-- 05_lists.py
-- 06_tuples_sets.py
+loops/
+functions/
+oop/
+mini_projects/
+```
 
-Each file contains examples and practice code with comments.
+## Mini Projects
 
-## How to Run
-```bash
-python filename.py
+* Calculator
+* Expense Tracker
+* Student Management System
+* Password Generator
+
+## Future Improvements
+
+* Add API projects
+* Add SQL integration
+* Add advanced DSA
+* Add unit testing
